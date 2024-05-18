@@ -5,4 +5,4 @@ A way to quickly search for a programing related questions from your terminal an
 
 Version one while still works great it isn't as fast as it could be. Since switching to GOlang it has become much faster. I also introduced more links to search from.
 
-(graph.png)
+![performance graph](graph.png)
